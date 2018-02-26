@@ -3,7 +3,7 @@
 var express = require("express");
 var alexa = require("alexa-app");
 
-var config = require("./config/config");
+//var config = require("./config/config");
 
 var PORT = process.env.PORT || 8080;
 var app = express();

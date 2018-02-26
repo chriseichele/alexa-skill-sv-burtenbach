@@ -4,7 +4,8 @@
     "description": "Alexa Skill Entwurf für sv-burtenbach.de",
     "main": "index.js",
     "scripts": {
-        "test": "node index.js"
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",

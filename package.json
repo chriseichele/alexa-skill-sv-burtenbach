@@ -1,0 +1,27 @@
+{
+    "name": "alexa-skill-sv-burtenbach",
+    "version": "1.0.0",
+    "description": "Alexa Skill Entwurf für sv-burtenbach.de",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chriseichele/alexa-skill-sv-burtenbach.git"
+    },
+    "keywords": [
+        "alexa",
+        "skill",
+        "nodejs",
+        "backend"
+    ],
+    "author": "Christian Eichele",
+    "bugs": {
+        "url": "https://github.com/chriseichele/alexa-skill-sv-burtenbach/issues"
+    },
+    "homepage": "https://sv-burtenbach.de/",
+    "dependencies": {
+        "alexa-sdk": "^1.0.25"
+    }
+}

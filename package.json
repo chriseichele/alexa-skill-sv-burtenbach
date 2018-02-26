@@ -11,7 +11,9 @@
         "url": "git+https://github.com/chriseichele/alexa-skill-sv-burtenbach.git"
     },
     "keywords": [
+        "amazon",
         "alexa",
+        "echo",
         "skill",
         "nodejs",
         "backend"
@@ -22,6 +24,9 @@
     },
     "homepage": "https://sv-burtenbach.de/",
     "dependencies": {
-        "alexa-sdk": "^1.0.25"
+        "alexa-app": "^4.2.1",
+        "alexa-sdk": "^1.0.25",
+        "ejs": "^2.5.7",
+        "express": "^4.16.2"
     }
 }
